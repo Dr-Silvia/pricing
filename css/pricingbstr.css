@@ -1,0 +1,21 @@
+
+
+
+.cd1{
+    height: 300px;
+}
+
+.box{
+    box-sizing: border-box;
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 3px;
+}
+.row_sm1{
+    border-bottom: solid 0.5px rgb(206, 206, 206);
+}
+.box2{
+    background-color: rgb(233, 233, 233);
+}
+.row3{
+    border-top: 1px solid rgb(206, 206, 206); 
+}
